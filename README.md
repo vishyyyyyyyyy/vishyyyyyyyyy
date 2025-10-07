@@ -1,6 +1,7 @@
 # Hii~ I’m Vishalya!!🩷
 
-I’m a **Frontend web dev** + **UX designer** who believes that code should be *cute*, *creative*, and maybe just a tiny bit *sparkly* ☆*: .｡. o(≧▽≦)o .｡.:*☆
+I’m a **Frontend web dev** + **UX designer** who believes that code should be *cute*, *creative*, and maybe just a tiny bit *sparkly*
+☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 
 #### 💌 Find Me Somewhere on the Internet

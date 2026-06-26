@@ -25,6 +25,7 @@ I’m a **Frontend web developer** ⟡ **UX designer** ⟡ **Game developer** wh
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-bde0fe?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
 ### ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+<img src="https://github-readme-pet-yw8h.vercel.app/api/pet" width="300" />
 
 #### 💌 Connect with me!
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffc0cb?style=for-the-badge&logoColor=white)](https://vishyyyyyyyyy.github.io/vishalya-sairam-portfolio/)

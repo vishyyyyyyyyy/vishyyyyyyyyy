@@ -6,7 +6,7 @@
    乀 (ˍ, ل ل          じしˍ,)ノ
 ```
 
-I’m a **Frontend web developer** ⟡ **UX designer** ⟡ **Game developer** who believes that code should be *cute*, *creative*, and maybe just a tiny bit *sparkly* ☆*:｡.o(≧▽≦)o.:*☆
+I’m a **Frontend web developer** ⟡ **UX designer** ⟡ **Game developer** who believes that code should be creative, and maybe just a tiny bit *sparkly* ☆*:｡.o(≧▽≦)o.:*☆
 
 ### ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
